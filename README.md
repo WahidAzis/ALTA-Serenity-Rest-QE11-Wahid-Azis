@@ -15,13 +15,13 @@ For more information about Serenity BDD, you can read the [**Serenity BDD Book**
 
 ## 📝 Reports
 
-#### Summary Report
+* #### Summary Report
 ![report-api-summary](https://github.com/WahidAzis/ALTA-Serenity-Rest-QE11-Wahid-Azis/blob/master/Result-1.PNG)
 
-#### Coverage Report
+* #### Coverage Report
 ![report-api-cpverage](https://github.com/WahidAzis/ALTA-Serenity-Rest-QE11-Wahid-Azis/blob/master/Result-2.PNG)
 
-#### Automation Testing When Run in Intellij IDE
+* #### Automation Testing When Run in Intellij IDE
 ![report-api-runningtest](https://github.com/WahidAzis/ALTA-Serenity-Rest-QE11-Wahid-Azis/blob/master/Result-3.PNG)
 
 ## 🛠 Tools
