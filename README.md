@@ -10,7 +10,7 @@ For more information about Serenity BDD, you can read the [**Serenity BDD Book**
 
 ## 📑 About the Project
 
-<p align="justify">This is a beginner practice project from Alterra Academy for QE beginner level to improve mentees'experience and knowledge about API automation Test. In this project, i use https://reqres.in/ as test object an use some of method (GET, POST, PUT, DELETE).</p>
+<p align="justify">This is a practice project from Alterra Academy for QE beginner level to improve mentees'experience and knowledge about API automation Test. In this project, i use https://reqres.in/ as test object an use some of method (GET, POST, PUT, DELETE).</p>
 
 
 ## 📝 Reports
